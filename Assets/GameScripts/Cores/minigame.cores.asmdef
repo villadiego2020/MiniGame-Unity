@@ -1,0 +1,17 @@
+{
+    "name": "minigame.cores",
+    "rootNamespace": "minigame.cores",
+    "references": [
+        "GUID:bb71f8c53bd23a548964f3d0c0ee5bb3",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
