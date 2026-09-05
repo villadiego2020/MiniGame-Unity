@@ -1,10 +1,4 @@
 # MiniGame System Documentation
----
-
-### Unity Version
-Unity Version 6.2 (6000.2.2f1)
-
----
 
 ## English Version
 
@@ -105,4 +99,3 @@ With this setup, the system will **automatically detect new mini-games** placed 
 ---
 
 ระบบจะ **เจอมินิเกมใหม่ให้อัตโนมัติ** ถ้ามีการเพิ่ม descriptor ใน `Resources/Games/`
-
